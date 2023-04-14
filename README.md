@@ -6,7 +6,7 @@ Tristram Dacayan, Jose Serra Jr., Liam Healy
 
 **I. Introduction**
 
-The proposed methodology allows a vendor to look back into the supply chain events for component failure. Component failuregenerates a majority of customer complaints often leading vendors to lose customers if customer support can not assess these issues. With the various Input/Output (IO) devices component list and add-ons, our solution attempts to track and log a timestamp for the date of a phase in the assembly and manufacturing process, country of origin, and manufacturing or assembly plant. Access checkpoints will be created from the vendors' global distribution sites, where their information will also be logged for company records.
+The proposed methodology allows a vendor to look back into the supply chain events for component failure. Component failure generates a majority of customer complaints often leading vendors to lose customers if customer support can not assess these issues. With the various Input/Output (IO) devices component list and add-ons, our solution attempts to track and log a timestamp for the date of a phase in the assembly and manufacturing process, country of origin, and manufacturing or assembly plant. Access checkpoints will be created from the vendors' global distribution sites, where their information will also be logged for company records.
 
 When issues arise with a product, the vendor will receive complaints from customers that are frequently logged into a database using a Custom Relationship Management (CRM) system. The solution will data mine those complaints with a Natural Language Processing (NLP) tool. For example, if many complaints are received relating to the speakers on a particular design of a laptop, our model will associate those complaints with the speaker components of that laptop design. That way, the vendor will be able to pinpoint a pool of possible errors that can lead to that specific issue whether it be a driver issue, hardware issue, and etc. The benefit of this particular solution is that it enables the trouble shooting customer complaints to be cohesive resolve with the manufacturing plants.
 
@@ -51,5 +51,6 @@ Methods that are being implemented in this prototype are the following: we are u
 [6] H. Min, "Artificial intelligence in supply chain management: theory and applications," _International Journal of Logistics: Research and Applications_, Vol. 13, No. 1, February 2010, pp. 13–39 https://doi.org/10.1080/13675560902736537
 
 [7] H. Xu, S. Xie, L. Shu and P. S. Yu, "CER: Complementary entity recognition via knowledge expansion on large unlabeled product reviews," 2016 _IEEE International Conference on Big Data (Big Data)_, Washington, DC, USA, 2016, pp. 793-802, https://doi.org/10.1109/BigData.2016.7840672.
+
 ----*Issue.txt* Generated with ChatGPT-3.5
 ----*Issue1.txt* Generated with ChatGPT-3.5
