@@ -4,7 +4,8 @@ Asus ROG Zephyrus M15 is experiencing issues with the driver Realtek Ethernet Dr
 HP Pavilion is having issues and not functioning well when playing Fortnite with its NVIDIA GeForce Graphics Driver, and also experiencing issues with the driver Intel UHD Graphics Driver.
 Acer Predator Triton 500 has issues with its Dolby Audio Driver and a malfunctioning fingerprint scanner. 
 Lenovo Legion 5i is experiencing issues with the driver Intel Wireless-AC 9560 Wi-Fi Driver and sound system.
-Dell Inspiron 15 7000 has a flickering display and issues with the webcam driver. HP Envy x360 is experiencing issues with the driver Synaptics Touchpad Driver and AMD Ryzen Processor Driver.
+Dell Inspiron 15 7000 has a flickering display and issues with the webcam driver.
+HP Envy x360 is experiencing issues with the driver Synaptics Touchpad Driver and AMD Ryzen Processor Driver.
 Lenovo IdeaPad Flex 5 has sound system issues with its Dolby Audio Driver and is not functioning well.
 Microsoft Surface Laptop 4 is experiencing issues with its camera driver and Realtek Audio Driver.
 Asus TUF Gaming A15 is having issues and not functioning well when playing Apex Legends with its NVIDIA GeForce Graphics Driver, and its keyboard backlight is not working properly.
